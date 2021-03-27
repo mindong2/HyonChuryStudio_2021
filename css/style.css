@@ -1,0 +1,13 @@
+@import "reset.css";
+@import "variable.css";
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
+/* Component */
+@import "component/navbar.css";
+/* Screens*/
+@import "screens/home.css";
+
+body {
+  font-family: "Fredoka One", cursive;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.05);
+}
